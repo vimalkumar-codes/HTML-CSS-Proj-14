@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Project 14 [Live Link](https://dancehome-page-14.netlify.app/)
+## Project 14 [Live Link](https://14-dancepage.vercel.app/)
 
 - Skills Gained in this project
 
